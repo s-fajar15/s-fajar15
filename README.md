@@ -1,7 +1,7 @@
 <h1 align="center">Halo! Saya Fajar 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Fajarrrrky.png" alt="Fajarxyta" width="150" height="150">
+  <img src="https://github.com/Fajarrrrky.png" alt="Fajarrrrky" width="150" height="150">
 </p>
 
 <p align="center">
