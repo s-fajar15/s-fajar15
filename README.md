@@ -51,6 +51,6 @@
 <h2 align="center">📫 Kontak Saya</h2>
 
 <p align="center">
-  📧 <a href="mailto:s.fajar.id@.com">fajar</a> •
+  📧 <a href="mailto:s.fajar.id@.com">Email</a> •
   📱 <a href="https://instagram.com/s.fajar_15">Instagram</a>
 </p>
