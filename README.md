@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kyjar
+# KYJAR
 
 **Backend Developer**
 
