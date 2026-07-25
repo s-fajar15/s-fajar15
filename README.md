@@ -1,56 +1,142 @@
-<h1 align="center">👋 Halo, Saya Fajar!</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/s-fajar15.png" alt="Fajarrrrky" width="150" height="150" style="border-radius: 50%;">
-</p>
+# Fajar
 
-<p align="center">
+### Backend Developer • Python Developer • Open Source Enthusiast
+
+Building reliable backend services, REST APIs, automation tools, and web applications with Python.
+
+<p>
   <a href="https://github.com/s-fajar15">
-    <img src="https://komarev.com/ghpvc/?username=s-fajar15&label=Profile%20views&color=blue" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=s-fajar15&label=Profile%20Views&color=0e75b6&style=flat-square" />
   </a>
   <a href="https://github.com/s-fajar15?tab=followers">
-    <img src="https://img.shields.io/github/followers/s-fajar15?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/s-fajar15?tab=stars">
-    <img src="https://img.shields.io/github/stars/s-fajar15?label=Stars&style=social" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/followers/s-fajar15?style=flat-square&logo=github" />
   </a>
 </p>
 
----
-
-<h2 align="center">🧠 Tentang Saya</h2>
-
-<p align="center">
-  Seorang developer yang suka belajar hal baru, tertarik pada pengembangan web, otomasi, dan eksplorasi teknologi.  
-  Saat ini aktif membangun dan berkontribusi di berbagai proyek open-source!
-</p>
+</div>
 
 ---
 
-<h2 align="center">📊 Statistik GitHub</h2>
+## About Me
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=s-fajar15&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+I'm a Backend Developer passionate about building scalable and maintainable applications using Python. I enjoy designing REST APIs, automating repetitive tasks, integrating third-party services, and developing efficient web applications.
+
+I believe that clean code, performance, and simplicity are the foundation of great software.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash"/>
 </p>
 
-<p align="center">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-fajar15&layout=compact&theme=tokyonight" alt="Top Languages">
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
+</p>
+
+### Libraries & Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+<img src="https://img.shields.io/badge/Requests-2CA5E0?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTTPX-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/AIOHTTP-2C5BB4?style=flat-square"/>
+<img src="https://img.shields.io/badge/BeautifulSoup4-43A047?style=flat-square"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cryptography-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyNaCl-4A148C?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 Temukan Proyek Saya</h2>
+## Featured Project
+
+### ☁️ KyjarCloud
+
+A modern web platform built with Flask, focused on delivering fast, reliable, and user-friendly cloud-based services.
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  🌟 Kunjungi dan eksplorasi <a href="https://github.com/s-fajar15?tab=repositories"><strong>repositori GitHub saya</strong></a>  
-  untuk melihat proyek-proyek menarik dan kontribusi terbaru saya!
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=s-fajar15&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-fajar15&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-fajar15&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-<h2 align="center">📫 Kontak Saya</h2>
+## Contribution Graph
 
 <p align="center">
-  📧 <a href="mailto:s.fajar.id@.com">Email</a> •
-  📱 <a href="https://instagram.com/s.fajar_15">Instagram</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s-fajar15&theme=github-dark&hide_border=true"/>
 </p>
+
+---
+
+## Current Focus
+
+- Backend Development
+- REST API Design
+- Flask Applications
+- Web Automation
+- API Integration
+- Authentication & Security
+- Performance Optimization
+- Linux Development
+- Open Source
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=s-fajar15&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## Connect
+
+<p>
+<a href="https://github.com/s-fajar15">
+<img src="https://img.shields.io/badge/GitHub-s--fajar15-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### Building software that is clean, efficient, and reliable.
+
+</div>
