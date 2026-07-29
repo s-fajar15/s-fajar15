@@ -58,16 +58,6 @@ My primary interests include:
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vscode,postman" />
 </p>
 
-
-## Currently Learning
-
-- Django
-- Go
-- System Design
-- Microservices
-
----
-
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=s-fajar15&show_icons=true&theme=github_dark)
