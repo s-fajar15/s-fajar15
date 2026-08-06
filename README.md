@@ -1,3 +1,1 @@
-<div align="center">
-# KYJAR
-</div>
+## KYJAR
